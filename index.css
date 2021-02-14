@@ -212,6 +212,9 @@ footer {
   .second-wrapper {
     max-width: 350px;
   }
+  .second-wrapper img{
+  left:70px;
+  }
   .second-wrapper .concept-content {
     max-width: 290px;
   }
